@@ -1,10 +1,10 @@
 {
-  "id": "cordova-plugin-htj-kakaotalk",
-  "name": "cordova-plugin-htj-kakaotalk",
+  "id": "cordova-plugin-dakakaotalk",
+  "name": "cordova-plugin-dakakaotalk",
   "version": "1.0.0",
   "description": "Cordova KakaoTalk Plugin",
   "cordova": {
-    "id": "cordova-plugin-htj-kakaotalk",
+    "id": "cordova-plugin-dakakaotalk",
     "platforms": [
       "android",
       "ios"
